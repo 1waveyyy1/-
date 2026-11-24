@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Diplom\\Diplom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|E:\\Diplom\\Diplom\\diplom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|solutionrelative:diplom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|E:\\Diplom\\Diplom\\diplom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|solutionrelative:diplom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|E:\\Diplom\\Diplom\\diplom\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|solutionrelative:diplom\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|e:\\diplom\\diplom\\diplom\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|solutionrelative:diplom\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|E:\\Diplom\\Diplom\\diplom\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|solutionrelative:diplom\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|E:\\Diplom\\Diplom\\diplom\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|solutionrelative:diplom\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|E:\\Diplom\\Diplom\\diplom\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|solutionrelative:diplom\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|E:\\Diplom\\Diplom\\diplom\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBFBAD35-69A2-4545-A24C-C8454E367535}|Diplom\\Diplom.csproj|solutionrelative:diplom\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 327,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\Diplom\\Diplom\\Diplom\\Form2.cs",
+              "RelativeDocumentMoniker": "Diplom\\Form2.cs",
+              "ToolTip": "E:\\Diplom\\Diplom\\Diplom\\Form2.cs",
+              "RelativeToolTip": "Diplom\\Form2.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:56:29.258Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "E:\\Diplom\\Diplom\\Diplom\\Auth.cs",
+              "RelativeDocumentMoniker": "Diplom\\Auth.cs",
+              "ToolTip": "E:\\Diplom\\Diplom\\Diplom\\Auth.cs",
+              "RelativeToolTip": "Diplom\\Auth.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T18:41:40.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auth.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Diplom\\Diplom\\Diplom\\Auth.cs",
+              "RelativeDocumentMoniker": "Diplom\\Auth.cs",
+              "ToolTip": "D:\\Diplom\\Diplom\\Auth.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:04:44.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Diplom\\Diplom\\Diplom\\Form3.cs",
+              "RelativeDocumentMoniker": "Diplom\\Form3.cs",
+              "ToolTip": "D:\\Diplom\\Diplom\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:15:02.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "E:\\Diplom\\Diplom\\Diplom\\Form3.cs",
+              "RelativeDocumentMoniker": "Diplom\\Form3.cs",
+              "ToolTip": "E:\\Diplom\\Diplom\\Diplom\\Form3.cs",
+              "RelativeToolTip": "Diplom\\Form3.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAqwLsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:29:56.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Diplom\\Diplom\\Diplom\\Form2.cs",
+              "RelativeDocumentMoniker": "Diplom\\Form2.cs",
+              "ToolTip": "E:\\Diplom\\Diplom\\Diplom\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Diplom\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:56:23.677Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Diplom\\Diplom\\Diplom\\Form1.cs",
+              "RelativeDocumentMoniker": "Diplom\\Form1.cs",
+              "ToolTip": "E:\\Diplom\\Diplom\\Diplom\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Diplom\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T18:28:42.854Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Diplom\\Diplom\\Diplom\\Form1.cs",
+              "RelativeDocumentMoniker": "Diplom\\Form1.cs",
+              "ToolTip": "E:\\Diplom\\Diplom\\Diplom\\Form1.cs*",
+              "RelativeToolTip": "Diplom\\Form1.cs*",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAnwDsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T19:16:28.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
